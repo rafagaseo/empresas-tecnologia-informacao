@@ -2,6 +2,7 @@
 
 ## Sumário
 * [Braço do Norte](#braço-do-norte)
+* [Brusque](#brusque)
 * [Chapecó](#chapecó)
 * [Criciúma](#criciúma)
 * [Joinville](#joinville)
@@ -12,6 +13,10 @@
 ## Braço do Norte
 * [Trier Sistemas](http://www.triersistemas.com.br/)
 * [Ideall Sistemas](http://www.ideallsistemas.com.br/)
+
+## Brusque 
+* [Demacode](http://demacode.com.br/)
+* [Híbrido](http://hibrido.com.br/)
 
 ## Chapecó
 * [SGI Sistemas](http://www.sgisistemas.com.br/)
